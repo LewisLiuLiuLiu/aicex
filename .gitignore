@@ -5,6 +5,9 @@ _site
 .sass-cache
 .jekyll-metadata
 .ssh/
+.claude
+.claude.json
+run_claude.sh
 *.box
 .vagrant
 __pycache__/

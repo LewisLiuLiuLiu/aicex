@@ -1,37 +1,3 @@
-l s-l
-ls -l
-cd ip/ciccreator/
-ls
-make
-sudo apt-get search qt
-sudo apt  search qt
-sudo apt  search qt6
-sudo apt install qt6-base-dev
-sudo apt get update
-sudo apt-get update -Y
-sudo apt-get update -y
-sudo apt install qt6-base-dev
-make
-qmake
-source ~/.bashrc 
-qt
-qmake
-sudo apt install qt6-base
-sudo apt search qt6
-sudo apt search qt6-make
-qtchooser 
-qtchooser  -l
-sudo apt search qt6-base
-which qmake6
-which qmake
-make
-make clean
-exit
-sudo apt search qt6
-cd ip/ciccreator/
-make clean
-ls -l
-sudo apt install qt6-base-dev
 sudo apt-get update
 sudo apt install qt6-base-dev
 make clean
@@ -436,3 +402,99 @@ make xview &
 cd ..
 cd sim/LELO_TEMP/
 make typical
+claude
+claude
+ls -l
+ls -la
+cd .claude
+ls -l
+ls -l .claude
+claude
+ls -l
+ls -la
+cat .claude.json 
+rm .claude.json 
+claude
+cp .claude/backups/.claude.json.backup.17777 .claude.json
+cp .claude/backups/.claude.json.backup.1777746950109 .claude.json
+claude
+ls
+cd ip/
+ls
+claude
+claude
+claude
+sudo apt install firefox
+sudo apt update
+sudo apt install firefox
+claude
+cd ip
+claude
+ls -l
+ls -la
+cd ..
+l s-l
+ls -l
+ls -la
+rm .claude.json 
+ls -al
+claude
+claude auth login
+cd ip
+claude --help
+claude auth login
+claude  --dangerously-skip-permissions 
+ls -la
+ls -l .claude
+claude auth login
+claude --help
+cd ip
+claude --dangerously-skip-permissions
+cat ../.claude/.credentials.json 
+ls -l
+uid -g
+id -a
+ls -la
+id -a
+sudo vi /etc/passwd
+sudo vi /etc/group
+sudo su
+sudo su
+ls -l
+cat /etc/passwd
+sudo su
+ls -l
+ls -la /home/
+ls -l
+cd ip/
+claude
+curl -fsSL https://claude.ai/install.sh | bash
+claude
+claude auth login
+claude
+ls -l
+cd ..
+ls -l
+ls -la
+whoami
+id -a
+cat /etc/passwd
+cat /etc/passwd
+ls -l
+ls -la
+ls -l
+sudo vi /etc/passwd
+ls -l
+ls -l .claude
+cd ip/
+claude
+claude --help
+claude --dangerously-skip-permissions 
+date
+fg
+claude --dangerously-skip-permissions 
+date
+claude --dangerously-skip-permissions 
+claude --dangerously-skip-permissions 
+claude --d
+claude --dangerously-skip-permissions 

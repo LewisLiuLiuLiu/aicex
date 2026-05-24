@@ -1,7 +1,7 @@
 FROM ubuntu:resolute
 
-ARG UID=1001
-ARG USER=aicex
+ARG UID=501
+ARG USER=wulff
 
 RUN ln -snf /usr/share/zoneinfo/$CONTAINER_TIMEZONE /etc/localtime && echo $CONTAINER_TIMEZONE > /etc/timezone
 

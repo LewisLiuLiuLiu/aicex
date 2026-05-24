@@ -5,8 +5,8 @@
 #-------------------------------------------------------
 options:
   template:
-    ip: tech_sky130A/cicconf/lelo.yaml
-  project: lelo
+    ip: tech_sky130A/cicconf/rey.yaml
+  project: rey
   technology: sky130A
 
 #-------------------------------------------------------
@@ -28,6 +28,11 @@ cicsim:
   remote: git@github.com:wulffern/cicsim.git
   revision: main
   description: Simulation orchestration
+
+cicsim:
+  remote: git@github.com:wulffern/cicwave.git
+  revision: main
+  description: Waveform viewer
 
 cicspi:
   remote: git@github.com:wulffern/cicspi.git

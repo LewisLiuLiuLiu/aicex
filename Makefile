@@ -35,6 +35,9 @@ ci24	:
 ci26:
 	docker build  --platform linux/amd64,linux/arm64 -f docker/Dockerfile_26.04 ${OPT} . -t wulffern/aicex:26.04_latest
 
+claude:
+	docker build  --platform linux/amd64,linux/arm64 -f docker/Dockerfile_claude ${OPT} . -t wulffern/aicex:claude
+
 ci24base:
 	docker build  --platform linux/amd64,linux/arm64 -f docker/Dockerfile_24.04_base ${OPT} . -t wulffern/aicex:base_24.04
 
