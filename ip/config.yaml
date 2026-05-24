@@ -55,6 +55,11 @@ cicpy:
   description: Transpiler and layout support
 
 
+librelane:
+  remote: git@github.com:librelane/librelane.git
+  revision: main
+  description: ASIC implementation flow infrastructure, successor to OpenLane
+
 #-------------------------------------------------------
 # TECHs
 #-------------------------------------------------------
